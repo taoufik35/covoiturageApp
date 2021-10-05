@@ -1,0 +1,52 @@
+{
+  "authentication": {
+    "id": "",
+    "status": "",
+    "firstname": "",
+    "lastname": "",
+    "adress": "",
+    "city": "",
+    "city_number": "",
+    "telephone": "",
+    "mail": "",
+    "password": "",
+    "birth_date": "",
+    "date_of_entry_into_the_company": "",
+    "account activated": ""
+  },
+  "profil": {
+    "id": "",
+    "smoker": "",
+    "detour": "",
+    "adress_1": "",
+    "adress_2": "",
+    "city_number": "",
+    "car_brand": "",
+    "car_modele": "",
+    "comfort_car": "",
+    "number_of_car_spaces": "",
+    "no_car": "",
+    "id_authentication": ""
+  },
+  "trajet": {
+    "id": "",
+    "city_start": "",
+    "city_arri": "",
+    "nuber_city_arri": "",
+    "date_end-trav": "",
+    "hour_arri": "",
+    "luggage": "",
+    "number_of_car_spaces": "",
+    "maximum_number_of_appointments": "",
+    "smoking": "",
+    "no_smoking": "",
+    "today's_date": "",
+    "travel_date": "",
+    "id_authentication": ""
+  },
+  "reservation": {
+    "id": "",
+    "id_authentication": "",
+    "id_trajet": ""
+  }
+}
